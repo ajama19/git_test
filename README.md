@@ -1,1 +1,1 @@
-"This is my first git project! Exciting!!!"
+"My first git file"
